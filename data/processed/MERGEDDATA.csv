@@ -1,4 +1,4 @@
-,COAST,date,Farenheit_Temperature,Inches_Rain
+,COAST,date,Celsius_Temperature,Millimeters_Rain
 0,10194.6,2024-01-01 05:00:00,13.356501,0.3
 1,10344.87,2024-01-01 06:00:00,13.4065,0.0
 2,10379.99,2024-01-01 07:00:00,14.7565,0.6

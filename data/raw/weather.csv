@@ -1,4 +1,4 @@
-date,Farenheit_Temperature,Inches_Rain
+date,Celsius_Temperature,Millimeters_Rain
 2024-01-01 06:00:00+00:00,15.2565,0.0
 2024-01-01 07:00:00+00:00,14.3065,0.8
 2024-01-01 08:00:00+00:00,14.5565,0.1
